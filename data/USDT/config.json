@@ -1,0 +1,19 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "tokens": [
+    {
+      "network": "Core",
+      "address": "0x81bCEa03678D1CEF4830942227720D542Aa15817",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "network": "Core",
+      "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+      "name": "Tether",
+      "symbol": "USDT"
+    }
+  ]
+}
