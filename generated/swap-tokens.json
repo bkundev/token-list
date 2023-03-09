@@ -39,6 +39,14 @@
       "logoURI": "https://raw.githubusercontent.com/bkundev/token-list/master/data/CORE/logo.png"
     },
     {
+      "name": "Horus Exchange Token",
+      "address": "0xb567bDf36B7d4C109d0392AcA2da97DfCCD71881",
+      "symbol": "HORUS",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/bkundev/token-list/master/data/HORUS/logo.png"
+    },
+    {
       "name": "Tether USD",
       "address": "0x81bCEa03678D1CEF4830942227720D542Aa15817",
       "symbol": "USDT",

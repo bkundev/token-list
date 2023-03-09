@@ -1,0 +1,11 @@
+{
+  "name": "Horus Exchange Token",
+  "symbol": "HORUS",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Core",
+      "address": "0xb567bDf36B7d4C109d0392AcA2da97DfCCD71881"
+    }
+  ]
+}
